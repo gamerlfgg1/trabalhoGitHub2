@@ -1,0 +1,1 @@
+o codigo sem a conversao esta neste github https://github.com/gamerlfgg1/trabalhoGitHub tive que separar para funcionar em html porem o codigo so foi convertido para o html por necessidade porem tenho todo o codigo salvo porque usei o github da forma certa junto do git o commit ,pull ,push ,etc nao usei nenhuma ia no processol, esta parcialmente documentado.
